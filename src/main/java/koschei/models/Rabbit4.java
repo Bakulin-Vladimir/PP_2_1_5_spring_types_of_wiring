@@ -6,6 +6,7 @@ import org.springframework.stereotype.Component;
 
 @Component("rabbit")
 public class Rabbit4 extends Deth8 {
+
     private Deth8 deth;
 
     @Autowired
